@@ -9,7 +9,7 @@ entries:
     name: accesschart
     type: application
     urls:
-    - https://educaredes.github.io/nfv-lab/accesschart-0.1.0.tgz
+    - https://daniel-gonzalez-sanchez.github.io/nfv-lab/accesschart-0.1.0.tgz
     version: 0.1.0
   cpechart:
   - apiVersion: v2
@@ -20,6 +20,6 @@ entries:
     name: cpechart
     type: application
     urls:
-    - https://educaredes.github.io/nfv-lab/cpechart-0.1.0.tgz
+    - https://daniel-gonzalez-sanchez.github.io/nfv-lab/cpechart-0.1.0.tgz
     version: 0.1.0
 generated: "2022-11-13T19:44:20.772735265+01:00"
