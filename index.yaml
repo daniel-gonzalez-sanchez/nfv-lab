@@ -3,9 +3,9 @@ entries:
   accesschart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-11-13T19:44:20.802372601+01:00"
+    created: "2023-01-26T15:50:59.199871756+01:00"
     description: A Helm chart for Kubernetes
-    digest: b6eff9cf299a4f1d7c806421e0fef9f39e59e31e15777f56a872f3cfe3303766
+    digest: 6fa75486e7e78c22c929c244c586b46c416aaa51a525f15d7d92fc7c4db9ec8b
     name: accesschart
     type: application
     urls:
@@ -14,12 +14,12 @@ entries:
   cpechart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-11-13T19:44:20.805525147+01:00"
+    created: "2023-01-26T15:50:59.200155904+01:00"
     description: A Helm chart for Kubernetes
-    digest: 33e7a2973a7664e175bccb21815e3fa0aaf2e41a8d6a41e8a15490f2c4e0136b
+    digest: 6d99067aaccb3e057f43853117237da685f718baf01994a9d1b0d2e88b110db3
     name: cpechart
     type: application
     urls:
     - https://daniel-gonzalez-sanchez.github.io/nfv-lab/cpechart-0.1.0.tgz
     version: 0.1.0
-generated: "2022-11-13T19:44:20.772735265+01:00"
+generated: "2023-01-26T15:50:59.199476981+01:00"
